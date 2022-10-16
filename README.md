@@ -19,6 +19,10 @@ The [blog post](https://dr4k0nia.github.io/dotnet/coding/2022/10/15/Encrypting-S
 - Then do `Ctrl + Shift + B` or click `Build` then `Build Solution`
 
 
+## Release
+
+- You can download check latest release by [clicking here](https://github.com/HideakiAtsuyo/XorStringsNET/releases/tag/1.0) (already built)
+
 ## Credits
 
 - [dr4k0nia](https://github.com/dr4k0nia)
