@@ -5,7 +5,8 @@ The [blog post](https://dr4k0nia.github.io/dotnet/coding/2022/10/15/Encrypting-S
 
 ## Preview
 
-![](https://i.imgur.com/xTkVj0h.mp4)
+[Click Here](https://i.imgur.com/xTkVj0h.mp4) if it doesn't show anything.
+![](https://i.imgur.com/xTkVj0h.gif)
 
 
 ## What did I do ?
