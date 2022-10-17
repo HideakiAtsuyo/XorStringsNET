@@ -22,7 +22,7 @@ The [blog post](https://dr4k0nia.github.io/dotnet/coding/2022/10/15/Encrypting-S
 
 ## Release
 
-- You can download check latest release by [clicking here](https://github.com/HideakiAtsuyo/XorStringsNET/releases/tag/1.0) (already built)
+- You can download check latest release by [clicking here](https://github.com/HideakiAtsuyo/XorStringsNET/releases) (already built)
 
 ## Credits
 
