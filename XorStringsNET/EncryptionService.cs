@@ -17,7 +17,7 @@ public class EncryptionService
     {
         _encryptedData = new List<byte>();
         //_globalKey = RandomNumberGenerator.GetInt32(int.MaxValue);
-        _globalKey = int.MaxValue;
+        _globalKey = RNGCryptoServiceProviderRandom.GetNextInt32(int.MaxValue);
         _encryptedData.AddRange(BitConverter.GetBytes(_globalKey));
         _index = 4;
     }
@@ -52,7 +52,7 @@ public class EncryptionService
     private byte[] RXOR(byte[] data, out int key)
     {
         //key = RandomNumberGenerator.GetInt32(int.MaxValue);
-        key = int.MaxValue;
+        key = RNGCryptoServiceProviderRandom.GetNextInt32(int.MaxValue);
 
         // RXOR Cipher: reverse array order and decrypt byte by byte using single XOR
         int n = data.Length - 1;
