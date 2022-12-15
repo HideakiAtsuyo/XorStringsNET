@@ -1,6 +1,6 @@
 # XorStringsNET
 
-The [blog post](https://dr4k0nia.github.io/dotnet/coding/2022/10/15/Encrypting-Strings-In-NET.html) made about it from original author.
+The [blog post](https://dr4k0nia.github.io/posts/Encrypting-Strings-In-NET/) made about it from original author.
 
 
 ## Preview
